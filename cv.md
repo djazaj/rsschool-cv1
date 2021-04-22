@@ -1,6 +1,6 @@
 1.	Dmitry Kazak. Date of birth 17.04.1983
 	
-2.	Email: kazakd@mail.ru; mobile phone: +375297481736
+2.	Email: kazakd@mail.ru; mobile phone: +3752974817368; telegram:[@kazakdmitriy](https://t.me/kazakdmitriy)
 	
 3.	Have basic skills in python (can write simple scripts)
 
