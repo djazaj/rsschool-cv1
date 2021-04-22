@@ -1,9 +1,9 @@
-1.	Dmitry Kazak. Date of birth 17.04.1983
+1.	Dmitry Kazak. Date of birth 17.04.1983.
 	
-2.	Email: kazakd@mail.ru; mobile phone: +3752974817368; telegram:[@kazakdmitriy](https://t.me/kazakdmitriy)
+2.	Email: kazakd@mail.ru; mobile phone: +3752974817368; telegram:[@kazakdmitriy](https://t.me/kazakdmitriy).
 	
-3.	Have basic skills in python (can write simple scripts)
+3.	Have basic skills in python (can write simple scripts).
 
-4.	Education: Mogilev State University of Food Technologies, specialization - processing and storage of animal raw materials . Brest State Technical University, specialization - economist-manager
+4.	Education: Mogilev State University of Food Technologies, specialization - processing and storage of animal raw materials . Brest State Technical University, specialization - economist-manager. Finished course on Stepic "Generation python" for beginers.
 	
-5.	English level b1
+5.	English level b1.
