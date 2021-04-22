@@ -1,4 +1,4 @@
-1.	Dmitry Kazak. 
+1.	Dmitry Kazak. Date of birth 17.04.1983
 	
 2.	Email: kazakd@mail.ru; mobile phone: +375297481736
 	
